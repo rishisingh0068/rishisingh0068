@@ -17,6 +17,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://rishirajsingh0068.netlify.app/)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rishisingh0068&limit=5&theme=dracula&combine_all_yearly_contributions=true)
